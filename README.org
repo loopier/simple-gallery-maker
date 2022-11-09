@@ -1,0 +1,11 @@
+#+title: Simple Gallery Maker
+
+
+Create a very basic image gallery from images in subdirectories.
+
+Each subdirectory name will be used to create a section (a separate
+.html file) with the same name.
+
+For example, if there's a subdirectory named ~illustrations~, a new
+~illustrations.html~ file will be created and the images in that directory
+will be displayed in alphabetical order.
